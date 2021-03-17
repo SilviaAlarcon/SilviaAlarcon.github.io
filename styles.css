@@ -1,0 +1,17 @@
+body{
+    background-color: #39404c;
+}
+
+.card{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: #39404c;
+    text-align: center;
+    border: none;
+    margin-top: 10%;
+}
+
+.card-title{
+    color: white;
+}
